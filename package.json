@@ -1,0 +1,23 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/samekshareddy/hello-world.git"
+  },
+  "author": "sameksha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samekshareddy/hello-world/issues"
+  },
+  "homepage": "https://github.com/samekshareddy/hello-world#readme"
+}
